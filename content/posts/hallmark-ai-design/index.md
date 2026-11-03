@@ -2,6 +2,7 @@
   "title": "单日暴涨 2200 星！Together AI 大佬开源的 Hallmark，真能消灭 AI 烂设计吗？",
   "draft": false,
   "weight": 2,
+  "summary": "Nutlope 的开源项目 hallmark 今天单日暴涨超过 2200 颗星，直接冲到了很多开发者的信息流中心。",
   "tags": [
     "AI 工具",
     "产品观察"

@@ -126,6 +126,7 @@ def main():
             images.append({'file': filename, 'sha256': hashlib.sha256(original[0].read_bytes()).hexdigest()})
         metadata = {
             'title': title, 'draft': False, 'weight': number,
+            'summary': plain(next(node for node in root if node.tag == 'p' and plain(node).strip())),
             'tags': tags, 'importedAt': args.imported_at,
             'sourceURL': f'https://ucnbjaetidak.feishu.cn/wiki/{wiki}',
             'cover': {'image': images[0]['file'], 'hiddenInSingle': True},
