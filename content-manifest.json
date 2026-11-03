@@ -1,0 +1,91 @@
+[
+  {
+    "slug": "simplify-knowledge-workflow",
+    "title": "删掉 8 个数据库和 7 条 AI 流水线后，我终于停止了假装努力",
+    "source_url": "https://ucnbjaetidak.feishu.cn/wiki/Q3ZZwZitJidFe8k5xPscxctynYF",
+    "revision": 33,
+    "imported_at": "2026-11-03",
+    "images": [
+      {
+        "file": "image-01.png",
+        "sha256": "ba5fed0c1185df1a1624a0e4e7ee6668cbda6676a31039bd4bd924c45ae0cd39"
+      },
+      {
+        "file": "image-02.png",
+        "sha256": "f0e51a55944b5d0e770cceb1302a9d07bfc5c8002c56dd35bcf4a07035e03fce"
+      },
+      {
+        "file": "image-03.png",
+        "sha256": "59294262aef289846ad7b10b9fc6f15b0d1ce4350ac0ea18160ac9d4006167b7"
+      },
+      {
+        "file": "image-04.png",
+        "sha256": "20ddf7fe5213b92639d26fb4ba3bab075c0a79b8dae8cc9dd3eb68b3223aad4a"
+      }
+    ],
+    "tables": 1,
+    "code_blocks": 2
+  },
+  {
+    "slug": "hallmark-ai-design",
+    "title": "单日暴涨 2200 星！Together AI 大佬开源的 Hallmark，真能消灭 AI 烂设计吗？",
+    "source_url": "https://ucnbjaetidak.feishu.cn/wiki/XXmLwPH0HimH5Qkh0MNc4Oz0nRg",
+    "revision": 31,
+    "imported_at": "2026-11-03",
+    "images": [
+      {
+        "file": "image-01.jpg",
+        "sha256": "d15e18e5e90431804f59479779347bfceafdb3a45ad0d1b2b5b5b0416800da1c"
+      },
+      {
+        "file": "image-02.png",
+        "sha256": "6439b3e6a362a6b8b338d1414f11393cb648c9ed7092901a562ef92ba3e984f3"
+      },
+      {
+        "file": "image-03.png",
+        "sha256": "15dd1f76afc06c36e55a1dbe53e8a0b97f66df514094372d52410ab120a71697"
+      },
+      {
+        "file": "image-04.png",
+        "sha256": "86053dd14a7b84bba88c70d8eee463af43d0709c8e291204255e18fe42568559"
+      },
+      {
+        "file": "image-05.png",
+        "sha256": "691eeff06e130034fb1d65d82b6c4429f90186f96bc6ecdde3372a1527ce98af"
+      }
+    ],
+    "tables": 1,
+    "code_blocks": 2
+  },
+  {
+    "slug": "longcat-2-5-analysis",
+    "title": "美团LongCat-2.5出炉：别吹比肩Opus，也别骂“不如发外卖券”，扒开4分钱缓存和雷霆大思考的真实底牌",
+    "source_url": "https://ucnbjaetidak.feishu.cn/wiki/MFJAwOjUriDKPwkvs5HcqfQRnPW",
+    "revision": 27,
+    "imported_at": "2026-11-03",
+    "images": [
+      {
+        "file": "image-01.png",
+        "sha256": "891819e602f6fe5c4088c72ae676164e61e90f6b24cbefa644a26c193a29c1db"
+      },
+      {
+        "file": "image-02.png",
+        "sha256": "f2b0babb6ed6a70b428277f78359a5b3db4c2c43ad659e68ae247c02169e9fbf"
+      },
+      {
+        "file": "image-03.png",
+        "sha256": "5a15b87880341d265259184e884c521305e8f7092fd98fdff738ac0b25cba887"
+      },
+      {
+        "file": "image-04.png",
+        "sha256": "e1c625c97cbcf72fda7a1391f00fac1b6d51104c7bfd93842c4fb2651b571ae7"
+      },
+      {
+        "file": "image-05.png",
+        "sha256": "41b6f4576c762236988b1c91fe043583c23b745d925332b949912a2dbef9f998"
+      }
+    ],
+    "tables": 1,
+    "code_blocks": 1
+  }
+]

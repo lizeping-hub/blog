@@ -1,0 +1,56 @@
+baseURL = 'https://lizeping-hub.github.io/blog/'
+locale = 'zh-CN'
+defaultContentLanguage = 'zh'
+title = '励泽坪 · 文章'
+theme = 'PaperMod'
+hasCJKLanguage = true
+enableRobotsTXT = true
+buildFuture = true
+
+[pagination]
+pagerSize = 10
+
+[params]
+author = '励泽坪'
+description = '关于 AI 产品、工具与工作方式的观察和思考。'
+defaultTheme = 'light'
+ShowReadingTime = true
+ShowToc = true
+TocOpen = false
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+disableAnchoredHeadings = true
+hideSummary = false
+DateFormat = '2006-01-02'
+
+[params.homeInfoParams]
+Title = '文章与思考'
+Content = '关于 AI 产品、工具与工作方式的观察和思考。'
+
+[params.cover]
+hiddenInSingle = true
+
+[[menu.main]]
+name = '文章'
+url = '/'
+weight = 10
+
+[[menu.main]]
+name = '个人主页'
+url = 'https://lizeping-hub.github.io/'
+weight = 20
+
+[[menu.main]]
+name = 'GitHub'
+url = 'https://github.com/lizeping-hub'
+weight = 30
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.goldmark.extensions.typographer]
+disable = true
+
+[markup.tableOfContents]
+startLevel = 2
+endLevel = 3

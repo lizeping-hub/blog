@@ -1,0 +1,9 @@
+.post-content { line-height: 1.9; overflow-wrap: anywhere; }
+.post-content img { height: auto; margin: 1.5rem auto; }
+.post-content table { font-size: 0.88em; line-height: 1.7; }
+.post-content pre { overflow-wrap: normal; }
+.post-title { line-height: 1.4; }
+.source-note { margin-top: 2rem; font-size: 0.85rem; color: var(--secondary); }
+@media (max-width: 600px) {
+  .post-title { font-size: 1.8rem; }
+}
